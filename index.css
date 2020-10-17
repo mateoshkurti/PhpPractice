@@ -1,0 +1,44 @@
+/*
+Mateo Shkurti
+Student ID: 991570115
+Syst10199- Web Programming
+*/
+/* 
+    Created on : Mar 19, 2020, 5:58:16 PM
+    Author     : shkur
+*/
+body{
+    background-color: darkgreen;
+    margin: 100px;
+    
+}
+#orderbody{
+    background-color: darkgreen;
+    margin: 100px;
+}
+#container{
+    display: flex;
+    justify-content: center;
+}
+#form{
+    background-color: lightgray;
+    padding: 25px;
+    margin: 25px;
+}
+#order{
+    background-color: white;
+    margin: 25pxl;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+#total{
+    background-color: lightsalmon;
+    margin: 10px;
+}
+
+#error{
+    
+    color: red;
+}
